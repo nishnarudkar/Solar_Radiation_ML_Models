@@ -32,7 +32,7 @@ This repository contains the full machine learning workflow to predict Global Ho
 See deployment repo here: [link to your Render deployment repo]
 
 🔗 **Related Repositories**:
-- 🔬 [Model Training & Evaluation Repo](https://github.com/nishnarudkar/solar-radiation-ml-models)
+- 🔬 [Model Training & Evaluation Repo](https://github.com/nishnarudkar/Solar_Radiation_ML_Models)
 - 🌐 [Web App Deployment Repo](https://github.com/nishnarudkar/Solar-Radiation-Prediction-using-Saudi-Arabia-Dataset)
 
 
