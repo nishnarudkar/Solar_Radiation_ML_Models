@@ -29,7 +29,7 @@ This repository contains the full machine learning workflow to predict Global Ho
 - 10-fold and 43-fold cross-validation
 
 ## 🔗 Live App (Deployed Model)
-See deployment repo here: [link to your Render deployment repo]
+See deployment repo here: (https://solar-radiation-prediction-using-saudi.onrender.com)
 
 🔗 **Related Repositories**:
 - 🔬 [Model Training & Evaluation Repo](https://github.com/nishnarudkar/Solar_Radiation_ML_Models)
