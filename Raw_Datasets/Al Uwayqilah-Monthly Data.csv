@@ -1,0 +1,15 @@
+Solar Resource Report for King Abdullah City for Atomic and Renewable Energy
+Al Uwayqilah Station
+Selected Range: Jan 2017 to Dec 2021
+Available Data within Range is Provided Below
+
+Prepared By: King Abdullah City for Atomic and Renewable Energy
+As part of the Renewable Resource Monitoring and Mapping (RRMM) Program
+
+http://rratlas.kacare.gov.sa
+
+Site,Latitude,Longitude,Date,Air Temperature (C°),Air Temperature Uncertainty (C°),Wind Direction at 3m (°N),Wind Direction at 3m Uncertainty (°N),Wind Speed at 3m (m/s),Wind Speed at 3m Uncertainty (m/s),Wind Speed at 3m (std dev) (m/s),Wind Speed at 3m (std dev) Uncertainty (m/s),DHI (Wh/m2),DHI Uncertainty (Wh/m2),Standard Deviation DHI (Wh/m2),DNI (Wh/m2),DNI Uncertainty (Wh/m2),Standard Deviation DNI (Wh/m2),GHI (Wh/m2),GHI Uncertainty (Wh/m2),Standard Deviation GHI (Wh/m2),Peak Wind Speed at 3m (m/s),Peak Wind Speed at 3m Uncertainty (m/s),Relative Humidity (%),Relative Humidity Uncertainty (%),Barometric Pressure (mB (hPa equiv)),Barometric Pressure Uncertainty (mB (hPa equiv))
+Al Uwayqilah,30.327166,42.253735,01/04/2021 00:00:00,24.9,0.5,311,4,3.9,0.1,2.3,,2497.5,226,1053.4,6127,546.7,2366.7,6817.4,430.3,526.5,24.8,0.1,19.4,3,963.8,4.8
+Al Uwayqilah,30.327166,42.253735,01/10/2021 00:00:00,26.6,0.5,70,4,3.2,0.1,1.7,,1705,443.6,460.8,5423.6,1310.7,1277.8,4938.5,1012.5,382.6,12.5,0.1,22.2,3,963.8,4.8
+Al Uwayqilah,30.327166,42.253735,01/11/2021 00:00:00,17.9,0.5,334,4,3.1,0.1,1.6,,1358.3,442.8,550.8,4998.1,1483.9,2109.7,3868.8,880.4,545.5,13.3,0.1,37.7,3,967.4,4.9
+Al Uwayqilah,30.327166,42.253735,01/12/2021 00:00:00,12.7,0.5,249,4,2.9,0.1,1.8,,1420,407.6,504.1,3801.5,1324,2196.2,3175.3,716.2,568.7,13.1,0.1,47.4,3,968.6,4.9
